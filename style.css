@@ -43,7 +43,7 @@ body {
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 6px;
   font-size: 24px;
   font-weight: bold;
   color: black;
@@ -299,7 +299,7 @@ input[type="email"]:hover,
   0%,
   50%,
   100% {
-    opacity: 0.2;
+    opacity: 1;
   }
   25%,
   75% {
